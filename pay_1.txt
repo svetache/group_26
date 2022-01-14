@@ -5,4 +5,6 @@ Autotests_Check
 ali_pay
 fsg
 23
+Vadim_developer_tasks
+Andrey_developer_tasks
 
